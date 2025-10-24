@@ -72,13 +72,18 @@
     "fivetiu.com",
     "missav.com",
     "fpo.xxx",
-    "4cdn.org",
     "18comic.com",
-    "4chan.org",
     "u3c3.com",
     "x1hub.com",
     "tu265.com",
     "91md.me",
+
+    // 4chan
+    "4chan.org",
+    "4chanarchives.com",
+    "imgur.com",
+    "googleapis.com",
+    "4cdn.org",
 
     // dev
     "wikipedia.org",
